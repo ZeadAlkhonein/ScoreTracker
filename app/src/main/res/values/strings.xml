@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Just App</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="manutd">Man Utd</string>
+    <string name="Goals">Goals:</string>
+    <string name="Foul">Fouls:</string>
+</resources>
